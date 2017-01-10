@@ -1,0 +1,63 @@
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.aboutMeText {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: auto;
+}
+
+
+.datesText
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+
+
+.containerColor1 {
+    background-color: #F0C68D;
+    color: white;
+}
+
+section {
+
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.smallIcons {
+    margin-bottom: 20px;
+}
+
+.containerColor2 {
+  
+}
+
+.textCenter {
+    text-align: center;
+    
+}
+
+.reductionNav {
+    margin-bottom: 0px !important;
+}
+
+.titleImg {
+    width: 100%;
+      height: auto;
+}
+
